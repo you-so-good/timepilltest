@@ -5,6 +5,6 @@ private void syso("hi") {
 	// TODO Auto-generated method stub
 	
 	
-
+いしいいし
 }
 }
