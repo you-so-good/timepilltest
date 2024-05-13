@@ -6,6 +6,9 @@ public class Seokyoung {
 		System.out.println("Seokyoung");
 		System.out.println("Seokyoung");
 		System.out.println("Seokyoung");
+		System.out.println("Seokyoung");
+		System.out.println("Seokyoung");
+		System.out.println("Seokyoung");
 	}
 
 }
